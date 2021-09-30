@@ -1,0 +1,13 @@
+#glob3==0.0.1
+dronekit==2.9.2
+get-mac==0.8.2
+Shapely==1.7.0
+cryptography==2.6.1
+signxml==2.7.2
+lxml==4.3.2
+pymavlink==2.4.4
+pycryptodomex==3.9.4
+pycrypto==2.6.1
+gpiozero==1.5.1
+future==0.18.2
+pyarmor==6.4.2
