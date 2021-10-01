@@ -1,5 +1,7 @@
 # NPNT-Module
-Designed NPNT MODULE
+
+Objective: To Design the NPNT Module. NPNT module had reduced security threats that drones can possess, as they come in all shapes and sizes ranging from Nano (up to 250 grams) to Large (> 150Kg).
+
 # pip3 install -r requirements.txt
 # sudo apt-get install libgeos-dev
 # Static IP - sudo nano /etc/dhcpcd.conf
